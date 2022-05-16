@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"conteudo1"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"OP",
+				"OPTION\tTag"
+			],
+			[
+				"login",
+				"Login"
+			],
+			[
+				"b",
+				"br\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/joaoe/Desktop/curso web/css/projeto css3 intermediário/elementos-flutuantes-prática1.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/cor-imagem-fundo.html",
+		"/C/Users/joaoe/Desktop/curso web/css/projeto css3 intermediário/elementos-flutuantes.html",
+		"/C/Users/joaoe/Desktop/curso web/css/projeto css3 intermediário/elementos-flutuantes-prática.html",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/cabeçalhos/index.html",
+		"/C/Users/joaoe/Desktop/curso web/css/projeto css3 intermediário/modelo-de-caixa.html",
+		"/C/Users/joaoe/Desktop/curso web/css/projeto css3 intermediário/estilo.css",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/formatação de texto/index.html",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/estrutura de uma página web/index.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/estilo de textos.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/estilo.css",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/classes-ids.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/box-model.html",
+		"/C/Users/joaoe/Desktop/curso web/css/projetos/annabella/CONTATO.html",
+		"/C/Users/joaoe/Desktop/curso web/css/projetos/annabella/estilo.css",
+		"/C/Users/joaoe/Desktop/curso web/css/projetos/index.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/pagina2.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/pagina 1.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/css externo/estilo css.html",
+		"/C/Users/joaoe/Desktop/curso web/estilos-textos.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/Tamanho de textos.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/fontes-cores.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/bordas.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/div-span.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/seletores.html",
+		"/C/Users/joaoe/Desktop/curso web/css/aulas/inline_style.html",
+		"/C/Users/joaoe/Desktop/curso web/html/projetos/projeto une/quem somos.html",
+		"/C/Users/joaoe/Desktop/curso web/html/projetos/projeto une/home.html",
+		"/C/Users/joaoe/Desktop/curso web/html/projetos/projeto une/contato.html",
+		"/C/Users/joaoe/Desktop/curso web/html/projetos/projeto une/quem-somos.html",
+		"/C/Users/joaoe/Desktop/curso web/index.html",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/caractéries especiais.html",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/formulários/formulários.html",
+		"/C/Users/joaoe/Desktop/curso web/html/teste/index.html",
+		"/C/Users/joaoe/Desktop/curso web/html/teste/contato.html",
+		"/C/Users/joaoe/Desktop/curso web/desafios/desafio01.html",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/rascunho.html",
+		"/C/Users/joaoe/Desktop/curso web/html/aulas/download.jfif",
+		"/C/Users/joaoe/Desktop/curso web/aulas/projeto01/rascunho.html",
+		"/C/Users/joaoe/Desktop/curso web/rascunho.html",
+		"/C/Users/joaoe/Desktop/curso web/html/rascunho.html",
+		"/C/Users/joaoe/Desktop/curso web/aulas/projeto01/my first site.html",
+		"/C/Users/joaoe/Desktop/curso web/aulas/aula01.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilo-externo.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
